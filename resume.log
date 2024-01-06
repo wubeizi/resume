@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021/W32TeX) (preloaded format=xelatex 2023.11.27)  5 JAN 2024 21:22
+This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021/W32TeX) (preloaded format=xelatex 2023.11.27)  6 JAN 2024 12:03
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -453,45 +453,38 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `\FA' on input line 23.
 
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 42.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 42.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 42.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 43.
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\FA' on input line 58.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\FA' on input line 65.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\FA' on input line 69.
+(hyperref)                removing `\FA' on input line 55.
 
 [1
 
-] (./resume.aux)
+]
 
-Package rerunfilecheck Warning: File `resume.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\FA' on input line 62.
 
-Package rerunfilecheck Info: Checksums for `resume.out':
-(rerunfilecheck)             Before: 53499A38A9E2C80BEA01F79B92062B4F;1765
-(rerunfilecheck)             After:  8726D35B3D8274A6D93105257CF702DB;1907.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <10.95> on input line 63.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 63.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 63.
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\FA' on input line 70.
+
+[2] (./resume.aux)
+Package rerunfilecheck Info: File `resume.out' has not changed.
+(rerunfilecheck)             Checksum: B809E166F948DAD415FB5526D2D60666;2529.
  ) 
 Here is how much of TeX's memory you used:
- 12844 strings out of 478866
- 243417 string characters out of 5864252
- 602403 words of memory out of 5000000
- 32535 multiletter control sequences out of 15000+600000
- 407666 words of font info for 68 fonts, out of 8000000 for 9000
+ 12836 strings out of 478866
+ 243240 string characters out of 5864252
+ 608167 words of memory out of 5000000
+ 32530 multiletter control sequences out of 15000+600000
+ 406745 words of font info for 64 fonts, out of 8000000 for 9000
  36 hyphenation exceptions out of 8191
- 113i,4n,117p,440b,314s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 113i,4n,117p,609b,432s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on resume.pdf (1 page).
+Output written on resume.pdf (2 pages).
